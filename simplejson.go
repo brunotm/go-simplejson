@@ -7,7 +7,7 @@ import (
 
 // returns the current implementation version
 func Version() string {
-	return "0.5.0"
+	return "0.5.1"
 }
 
 type JSON struct {
